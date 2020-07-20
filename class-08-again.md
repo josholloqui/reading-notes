@@ -12,3 +12,10 @@
 * designers also let the user know what the site is about within the first 600 px
 * Grid are awesome. I love grids
 * you can stack CSS files
+* Css allows you to control the positions of elements with position schemes that it provides that you can use
+* Use z-index for overlapping elements
+* Accommodating for various screen sizes aim for more of a dynamic site
+* Fixed layouts vs. liquid layouts
+* CSS Frameworks help make life easier
+* Importing style sheets and linking style sheets
+* multiple style pages for each page can be done
