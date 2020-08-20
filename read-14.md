@@ -1,0 +1,5 @@
+# Read 14: Project Ideas & APIs
+
+* from looking at the apis I kinda want to do soemthing with the dictionary apis that are available I don't know why but I i like the idea of creating maybe like a new-age dictionary like a modern dictionary with some features that i'm still trying to think about
+* Second half idea is trying to do something with the spotify api still not fully sure what it would be but i've seen some project other people have done with this api and it looks fun
+* I was also thinking about creating like a fan forum or some sort of forum website where there would be a community board where you could post to for very one to see and you could also have your own solo forum/notes to self if its a fan forum i could use one of the many forums dedicated to a certain show or movie if its just a general forum I would come up with a general subject that the forum/website is about
